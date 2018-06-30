@@ -1,5 +1,4 @@
 ## Devcamp JS Footer
-### by Aakash
 
 > This should be used to add a footer to your application. This includes a customizable Copyright statement with updated years.
 
